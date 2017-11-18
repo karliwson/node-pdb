@@ -1,0 +1,20 @@
+{
+  "name": "node-pdb",
+  "version": "0.0.1",
+  "description": "Node.js bindings to Microsoft's Program Database format: https://github.com/Microsoft/microsoft-pdb",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karliwson/node-pdb.git"
+  },
+  "keywords": [
+    "pdb"
+  ],
+  "author": "Karliwson Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karliwson/node-pdb/issues"
+  },
+  "homepage": "https://github.com/karliwson/node-pdb#readme"
+}
